@@ -12,4 +12,4 @@ Outside that, I build and operate AI systems rather than only advising on them.
 
 Most of my repositories are private — client work, personal infrastructure, and a shipped product.
 
-**Elsewhere:** [schwinghub.com](https://schwinghub.com) · [LinkedIn](https://linkedin.com/in/andreas-schwing-8850519a)
+**Elsewhere:** [schwinghub.com](https://schwinghub.com) · [LinkedIn](https://linkedin.com/in/andreas-schwing)
