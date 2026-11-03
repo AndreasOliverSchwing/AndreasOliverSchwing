@@ -10,6 +10,10 @@ Outside that, I build and operate AI systems rather than only advising on them.
 - [FirstEcho](https://firstecho.app) — an AI-supported early-communication app for parents. Product definition through content pipeline, web release, and iOS distribution.
 - Smaller applied-AI pilots with real users, mostly around turning day-to-day operational workflows into decision support.
 
-Most of my repositories are private — client work, personal infrastructure, and a shipped product.
+**Start here: [agent-harness](https://github.com/AndreasOliverSchwing/agent-harness)**
+
+The public piece of that platform. It checks agent output before people rely on it: a contract per recurring output, a linter that needs no model and no network, and a delivery check that fails when a job runs but nothing reaches a person. It exists because a weekly digest failed to arrive for three weeks while every check stayed green. The README shows it catching that kind of failure in 30 seconds.
+
+Most of my other repositories are private — client work, personal infrastructure, and a shipped product.
 
 **Elsewhere:** [schwinghub.com](https://schwinghub.com) · [LinkedIn](https://linkedin.com/in/andreas-schwing)
